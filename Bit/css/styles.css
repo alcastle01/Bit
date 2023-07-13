@@ -1,0 +1,27 @@
+
+
+.login{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.navbar{
+background-color: yellow;
+}
+.interrogante{
+
+}
+footer
+{
+    margin-top:50px;
+    width:100%;
+    height:200px;
+    background-color: red;
+}
+
+.navbarcolor{
+    background-color: rgb(255, 255, 35);
+}
+.anchoBuscador {
+    min-width: 650px;
+}
